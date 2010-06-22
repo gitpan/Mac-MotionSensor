@@ -1,9 +1,9 @@
 --- #YAML:1.0
 name:               Mac-MotionSensor
-version:            0.01
-abstract:           access to your accelerometer
+version:            0.02
+abstract:           Access to your accelerometer
 author:
-    - Robin Edwards <robin.ge@gmail.com>
+    - Robin Edwards <rge@cpan.org>
 license:            unknown
 distribution_type:  module
 configure_requires:
